@@ -42,3 +42,4 @@ A Machine Learning Researcher and Instructor at the same time
     </tr>
   </table>
 </div>
+![Maha Zainab's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahaZainab&show_icons=true&theme=radical)
