@@ -1,1 +1,2 @@
 # Renewable Energy Research
+Renewable energy is not just a buzzword; it's a necessity for our planet's future. This dataset provides a comprehensive look at global renewable energy production, investments, and various socio-economic indicators. Let's dive in and see what insights we can uncover. If you find this notebook useful, please star and fork it.
