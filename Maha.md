@@ -42,4 +42,16 @@ A Machine Learning Researcher and Instructor at the same time
     </tr>
   </table>
 </div>
-![Maha Zainab's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahaZainab&show_icons=true&theme=radical)
+<div align="center">
+  
+  ### Welcome to My GitHub Profile! 👩‍💻
+
+  ![Maha Zainab's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahaZainab&show_icons=true&theme=radical)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=MahaZainab&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahaZainab&theme=radical)
+  
+  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+  
+</div>
