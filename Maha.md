@@ -28,10 +28,17 @@ A Machine Learning Researcher and Instructor at the same time
 <div align="center">
   <h2>📊 GitHub Stats</h2>
 
-  ![Followers](https://img.shields.io/github/followers/MahaZainab?style=for-the-badge)
-  ![Following](https://img.shields.io/github/following/MahaZainab?style=for-the-badge)
-  ![Stars](https://img.shields.io/github/stars/MahaZainab?style=for-the-badge)
-  ![Forks](https://img.shields.io/github/forks/MahaZainab?style=for-the-badge)
-  ![Commits](https://badges.pufler.dev/commits/day/MahaZainab?style=for-the-badge)
-
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/github/followers/MahaZainab?style=for-the-badge" alt="Followers"></td>
+      <td><img src="https://img.shields.io/github/stars/MahaZainab?style=for-the-badge" alt="Stars"></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/github/following/MahaZainab?style=for-the-badge" alt="Following"></td>
+      <td><img src="https://img.shields.io/github/forks/MahaZainab?style=for-the-badge" alt="Forks"></td>
+    </tr>
+    <tr>
+      <td colspan="2"><img src="https://badges.pufler.dev/commits/day/MahaZainab?style=for-the-badge" alt="Today's Commits"></td>
+    </tr>
+  </table>
 </div>
