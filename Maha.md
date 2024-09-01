@@ -25,4 +25,13 @@ A Machine Learning Researcher and Instructor at the same time
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/your-youtube)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-orange?style=flat-square&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/your-stackoverflow)
 
-![alt text](image.png)
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+
+  ![Followers](https://img.shields.io/github/followers/MahaZainab?style=for-the-badge)
+  ![Following](https://img.shields.io/github/following/MahaZainab?style=for-the-badge)
+  ![Stars](https://img.shields.io/github/stars/MahaZainab?style=for-the-badge)
+  ![Forks](https://img.shields.io/github/forks/MahaZainab?style=for-the-badge)
+  ![Commits](https://badges.pufler.dev/commits/day/MahaZainab?style=for-the-badge)
+
+</div>
