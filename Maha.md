@@ -24,3 +24,5 @@ A Machine Learning Researcher and Instructor at the same time
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/your-kaggle)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/your-youtube)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-orange?style=flat-square&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/your-stackoverflow)
+
+![alt text](image.png)
